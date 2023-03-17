@@ -1,5 +1,6 @@
 # cottage-bakery
-⫸ A system of a store that sells baked goods. Our system will deal with two parts: the employee  and the costumer. The costumer will choose from the menu and can customize their order. The employee will have the option of viewing the receipt or view the salary calculated based on the hours  they have worked.
+⫸ A system of a store that sells baked goods, our program will deal with two parts: the Admin and the Customer.Customers will choose from the menu 
+and can customize their order.We have two Admins: the Employeewho can update his info and view the salary, and the Manager who add or delete employees, show bills, view employee Information and view the salary of the Manager.
 
 ⫸ make sure that all the jars are installed in your device and active it
 
