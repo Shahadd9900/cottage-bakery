@@ -65,4 +65,4 @@ and can customize their order.We have two Admins: the Employeewho can update his
 
 ⊛ Update employee information Frame: This Frame will give the employee the ability to update their information.
 
-That’s all, we hope you enjoyed.
+That’s all, we hope you enjoyed it ❤️. 
